@@ -15,3 +15,6 @@ class MyFX extends Application
 		primaryStage.show();
 	}
 }
+
+//GUI program
+
